@@ -1,0 +1,14 @@
+C:\Users\saffarizadek\Desktop\Projects\App006\bin\Debug\net8.0\App006.exe
+C:\Users\saffarizadek\Desktop\Projects\App006\bin\Debug\net8.0\App006.deps.json
+C:\Users\saffarizadek\Desktop\Projects\App006\bin\Debug\net8.0\App006.runtimeconfig.json
+C:\Users\saffarizadek\Desktop\Projects\App006\bin\Debug\net8.0\App006.dll
+C:\Users\saffarizadek\Desktop\Projects\App006\bin\Debug\net8.0\App006.pdb
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\App006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\App006.AssemblyInfoInputs.cache
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\App006.AssemblyInfo.cs
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\App006.csproj.CoreCompileInputs.cache
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\App006.dll
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\refint\App006.dll
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\App006.pdb
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\App006.genruntimeconfig.cache
+C:\Users\saffarizadek\Desktop\Projects\App006\obj\Debug\net8.0\ref\App006.dll
